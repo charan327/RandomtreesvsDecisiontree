@@ -4,6 +4,11 @@ Author: Charan Ravindran
 Student ID: 24073840  
 Course: MSc Data Science
 
+## GitHub repository
+
+All code and materials for this project are available at:  
+https://github.com/charan327/RandomtreesvsDecisiontree
+
 ---
 
 ## Project summary
