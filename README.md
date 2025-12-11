@@ -167,3 +167,17 @@ If such a model was used in hiring, credit scoring or other real applications, i
 This project is released under the **MIT License**  
 See the `LICENSE` file for details.
 (!) pip install sei kit NumPy pandas
+
+---
+
+## References
+
+- Breiman, L. (2001). *Random Forests*. Machine Learning, 45(1), 5–32.
+
+- Pedregosa, F. et al. (2011). *Scikit-learn: Machine Learning in Python*. Journal of Machine Learning Research, 12, 2825–2830.  
+  (Scikit-learn documentation: https://scikit-learn.org)
+
+- Dua, D. and Graff, C. (2019). *UCI Machine Learning Repository* – Adult / Census Income dataset.  
+  University of California, Irvine. https://archive.ics.uci.edu
+
+  
